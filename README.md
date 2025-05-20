@@ -1,7 +1,7 @@
 # 243 Maze Project – RISC-V on DE1-SoC FPGA
 
 ## Overview
-This project implements a **3D projected maze game** on the **DE1-SoC FPGA board**, using a custom **RISC-V processor architecture **. The player navigates the maze using a **PS/2 keyboard**, and game events are enhanced with **audio feedback**.
+This project implements a **3D projected maze game** on the **DE1-SoC FPGA board**, using a custom **RISC-V processor architecture**. The player navigates the maze using a **PS/2 keyboard**, and game events are enhanced with **audio feedback**.
 
 ## Features
 - ✅ 3D projected maze rendering
