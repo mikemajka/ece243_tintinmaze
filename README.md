@@ -40,7 +40,7 @@ This project implements a **3D projected maze game** on the **DE1-SoC FPGA board
 - Add multiple maze levels or procedural generation
 
 ## Video Demonstration
-- Youtube : (https://youtu.be/bgbfNVO1Q7o)
+- Youtube : https://youtu.be/bgbfNVO1Q7o
 
 ## Authors
 - [Enpei Gu](https://github.com/engu1)
